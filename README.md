@@ -29,3 +29,7 @@ Note : `WorkSpace.mat` is result of run.
                                                                                
   Farhad Abedinzadeh torghabeh | Master Student of Biomdeical Engineering     
                       farhaad.abedinzade@gmail.com                             
+## Cite as
+Farhad Abedinzade (2022). Auto EEG Signal Preprocessing and Feature Extraction (https://github.com/farhadabedinzadeh/AutomaticEEGSignalPreprocessingAndLinearNonlinearFeatureExtraction/releases/tag/1.0.0), GitHub. Retrieved August 12, 2022.
+
+[![View Auto EEG Signal Preprocessing and Feature Extraction on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/116205-auto-eeg-signal-preprocessing-and-feature-extraction)
