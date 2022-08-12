@@ -12,3 +12,19 @@ Delta Average Band Power , Theta Average Band Power , Alpha Average Band Power ,
  
 # Nonliner Features:
 Sample Entropy , Shannon Entropy , Dispersion Entropy , MultiScale Sample Entropy
+
+## Environment Variables
+
+To run this Code, you will need to add the following folder to your MATLAB path
+`functions`
+And then run the following script
+`Main.m`
+
+Note : `WorkSpace.mat` is result of run.
+
+## License
+ Version 1.0 August 2022   |  Copyright (c) 2022   | All rights reserved       
+                                                                               
+                                                                               
+  Farhad Abedinzadeh torghabeh | Master Student of Biomdeical Engineering     
+                      farhaad.abedinzade@gmail.com                             
