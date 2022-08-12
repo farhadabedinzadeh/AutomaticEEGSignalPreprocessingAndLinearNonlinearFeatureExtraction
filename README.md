@@ -15,8 +15,9 @@ Sample Entropy , Shannon Entropy , Dispersion Entropy , MultiScale Sample Entrop
 
 ## Environment Variables
 
-To run this Code, you will need to add the following folder to your MATLAB path
-`functions`
+To run this Code, you will need to add the `functions` folder to your MATLAB path
+
+
 And then run the following script
 `Main.m`
 
