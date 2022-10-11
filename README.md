@@ -1,7 +1,7 @@
 # Automatic EEG Signal Preprocessing And Linear Nonlinear FeatureExtraction
 
-In this Script A suitable Butterworth band-pass filter (0.5–60 Hz) was employed to eliminate out-of-band noise in this code. 
-In addition, a 50 Hz notch filter  was utilized to eliminate the remaining line noise. To make it easier to track   future results, we normalized the entire
+In this Script a suitable Butterworth band-pass filter (0.5–60 Hz) was employed to eliminate out-of-band noise. 
+In addition, a 50 Hz notch filter  was utilized to eliminate the remaining powerline noise. To make it easier to track future results, we normalized the entire
 database.                                        
 In the step of feature extraction, linear and nonlinear univariate features,  as well as nonlinear multivariate features, were extracted from EEG signals.
 Individual recording channels and five frequency sub-bands (Delta,Theta, Alpha , Beta and Gamma) underwent spectral analysis of average power.
